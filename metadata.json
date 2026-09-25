@@ -1,0 +1,6 @@
+{
+  "name": "Lake Cookhouse - Lakeside Dining & Restaurant Proposal",
+  "description": "Premium restaurant landing page proposal for Lake Cookhouse. Good Food. Great Views. Unforgettable Moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
